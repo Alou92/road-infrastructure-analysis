@@ -1,3 +1,5 @@
 PFE/
 Release/
 x64/
+*.sln
+.vs/
